@@ -1,5 +1,7 @@
 void sastantua(int nb);
 
+//kek
+
 int main()
 {
 	int i = 7;
